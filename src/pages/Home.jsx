@@ -13,10 +13,12 @@ import Testimonial from "../components/Testimonial/Testimonial";
 
 import Newsletter from "../components/Newsletter/Newsletter";
 import Footer from "../components/Footer/Footer";
+import AnimationSection from "../components/Animation-Section/AnimationSection";
 
 const Home = () => {
     return (
-        <Fragment>
+        <Fragment> 
+            <AnimationSection />
             <Header />
             <HeroSection />
             <CompanySection />

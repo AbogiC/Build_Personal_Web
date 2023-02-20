@@ -11,7 +11,6 @@ const navLinks = [
     display: "About",
     url: "#",
   },
-
   {
     display: "Courses",
     url: "#",
